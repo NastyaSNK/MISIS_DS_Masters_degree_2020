@@ -1,5 +1,5 @@
 ![Image alt](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/blob/master/smriz/logo.png)
-Задачи курса:
+# Задачи курса:
 
 **Знать**
 Базовые методы и модели принятия управленческих решений
