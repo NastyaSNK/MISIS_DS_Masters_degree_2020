@@ -1,0 +1,373 @@
+,date,vanga_descriptions,sentiment_aws,score_google,magnitude_google,vanga_binary
+0,2010-01," World War III. War will begin in November  and end in October . Will begin as usual, then nuclear will be used initially, and then chemical weapons.",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+1,2010-02," World War III. War will begin in November  and end in October . Will begin as usual, then nuclear will be used initially, and then chemical weapons.",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+2,2010-03," World War III. War will begin in November  and end in October . Will begin as usual, then nuclear will be used initially, and then chemical weapons.",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+3,2010-04," World War III. War will begin in November  and end in October . Will begin as usual, then nuclear will be used initially, and then chemical weapons.",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+4,2010-05," World War III. War will begin in November  and end in October . Will begin as usual, then nuclear will be used initially, and then chemical weapons.",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+5,2010-06," World War III. War will begin in November  and end in October . Will begin as usual, then nuclear will be used initially, and then chemical weapons.",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+6,2010-07," World War III. War will begin in November  and end in October . Will begin as usual, then nuclear will be used initially, and then chemical weapons.",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+7,2010-08," World War III. War will begin in November  and end in October . Will begin as usual, then nuclear will be used initially, and then chemical weapons.",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+8,2010-09," World War III. War will begin in November  and end in October . Will begin as usual, then nuclear will be used initially, and then chemical weapons.",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+9,2010-10," World War III. War will begin in November  and end in October . Will begin as usual, then nuclear will be used initially, and then chemical weapons.",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+10,2010-11," World War III. War will begin in November  and end in October . Will begin as usual, then nuclear will be used initially, and then chemical weapons.",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+11,2010-12," World War III. War will begin in November  and end in October . Will begin as usual, then nuclear will be used initially, and then chemical weapons.",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+12,2011-01, As a result of the fallout of nuclear fallout in the northern hemisphere will not be any animals or vegetation. Then Muslims will wage war against chemical surviving Europeans.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+13,2011-02, As a result of the fallout of nuclear fallout in the northern hemisphere will not be any animals or vegetation. Then Muslims will wage war against chemical surviving Europeans.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+14,2011-03, As a result of the fallout of nuclear fallout in the northern hemisphere will not be any animals or vegetation. Then Muslims will wage war against chemical surviving Europeans.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+15,2011-04, As a result of the fallout of nuclear fallout in the northern hemisphere will not be any animals or vegetation. Then Muslims will wage war against chemical surviving Europeans.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+16,2011-05, As a result of the fallout of nuclear fallout in the northern hemisphere will not be any animals or vegetation. Then Muslims will wage war against chemical surviving Europeans.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+17,2011-06, As a result of the fallout of nuclear fallout in the northern hemisphere will not be any animals or vegetation. Then Muslims will wage war against chemical surviving Europeans.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+18,2011-07, As a result of the fallout of nuclear fallout in the northern hemisphere will not be any animals or vegetation. Then Muslims will wage war against chemical surviving Europeans.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+19,2011-08, As a result of the fallout of nuclear fallout in the northern hemisphere will not be any animals or vegetation. Then Muslims will wage war against chemical surviving Europeans.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+20,2011-09, As a result of the fallout of nuclear fallout in the northern hemisphere will not be any animals or vegetation. Then Muslims will wage war against chemical surviving Europeans.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+21,2011-10, As a result of the fallout of nuclear fallout in the northern hemisphere will not be any animals or vegetation. Then Muslims will wage war against chemical surviving Europeans.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+22,2011-11, As a result of the fallout of nuclear fallout in the northern hemisphere will not be any animals or vegetation. Then Muslims will wage war against chemical surviving Europeans.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+23,2011-12, As a result of the fallout of nuclear fallout in the northern hemisphere will not be any animals or vegetation. Then Muslims will wage war against chemical surviving Europeans.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+24,2014-01, Most people will suffer skin cancer and other skin diseases (a consequence of chemical warfare).,NEUTRAL,-0.5,0.5,1
+25,2014-02, Most people will suffer skin cancer and other skin diseases (a consequence of chemical warfare).,NEUTRAL,-0.5,0.5,1
+26,2014-03, Most people will suffer skin cancer and other skin diseases (a consequence of chemical warfare).,NEUTRAL,-0.5,0.5,1
+27,2014-04, Most people will suffer skin cancer and other skin diseases (a consequence of chemical warfare).,NEUTRAL,-0.5,0.5,1
+28,2014-05, Most people will suffer skin cancer and other skin diseases (a consequence of chemical warfare).,NEUTRAL,-0.5,0.5,1
+29,2014-06, Most people will suffer skin cancer and other skin diseases (a consequence of chemical warfare).,NEUTRAL,-0.5,0.5,1
+30,2014-07, Most people will suffer skin cancer and other skin diseases (a consequence of chemical warfare).,NEUTRAL,-0.5,0.5,1
+31,2014-08, Most people will suffer skin cancer and other skin diseases (a consequence of chemical warfare).,NEUTRAL,-0.5,0.5,1
+32,2014-09, Most people will suffer skin cancer and other skin diseases (a consequence of chemical warfare).,NEUTRAL,-0.5,0.5,1
+33,2014-10, Most people will suffer skin cancer and other skin diseases (a consequence of chemical warfare).,NEUTRAL,-0.5,0.5,1
+34,2014-11, Most people will suffer skin cancer and other skin diseases (a consequence of chemical warfare).,NEUTRAL,-0.5,0.5,1
+35,2014-12, Most people will suffer skin cancer and other skin diseases (a consequence of chemical warfare).,NEUTRAL,-0.5,0.5,1
+36,2016-01, Europe almost lonely (empty).,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+37,2016-02, Europe almost lonely (empty).,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+38,2016-03, Europe almost lonely (empty).,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+39,2016-04, Europe almost lonely (empty).,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+40,2016-05, Europe almost lonely (empty).,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+41,2016-06, Europe almost lonely (empty).,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+42,2016-07, Europe almost lonely (empty).,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+43,2016-08, Europe almost lonely (empty).,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+44,2016-09, Europe almost lonely (empty).,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+45,2016-10, Europe almost lonely (empty).,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+46,2016-11, Europe almost lonely (empty).,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+47,2016-12, Europe almost lonely (empty).,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+48,2018-01, New China becomes a world power. Developing countries in turn operated from exploiters.,NEUTRAL,0.30000001192092896,0.800000011920929,1
+49,2018-02, New China becomes a world power. Developing countries in turn operated from exploiters.,NEUTRAL,0.30000001192092896,0.800000011920929,1
+50,2018-03, New China becomes a world power. Developing countries in turn operated from exploiters.,NEUTRAL,0.30000001192092896,0.800000011920929,1
+51,2018-04, New China becomes a world power. Developing countries in turn operated from exploiters.,NEUTRAL,0.30000001192092896,0.800000011920929,1
+52,2018-05, New China becomes a world power. Developing countries in turn operated from exploiters.,NEUTRAL,0.30000001192092896,0.800000011920929,1
+53,2018-06, New China becomes a world power. Developing countries in turn operated from exploiters.,NEUTRAL,0.30000001192092896,0.800000011920929,1
+54,2018-07, New China becomes a world power. Developing countries in turn operated from exploiters.,NEUTRAL,0.30000001192092896,0.800000011920929,1
+55,2018-08, New China becomes a world power. Developing countries in turn operated from exploiters.,NEUTRAL,0.30000001192092896,0.800000011920929,1
+56,2018-09, New China becomes a world power. Developing countries in turn operated from exploiters.,NEUTRAL,0.30000001192092896,0.800000011920929,1
+57,2018-10, New China becomes a world power. Developing countries in turn operated from exploiters.,NEUTRAL,0.30000001192092896,0.800000011920929,1
+58,2018-11, New China becomes a world power. Developing countries in turn operated from exploiters.,NEUTRAL,0.30000001192092896,0.800000011920929,1
+59,2018-12, New China becomes a world power. Developing countries in turn operated from exploiters.,NEUTRAL,0.30000001192092896,0.800000011920929,1
+60,2023-01, A little bit of change in the Earth’s orbit.,NEUTRAL,0.0,0.0,1
+61,2023-02, A little bit of change in the Earth’s orbit.,NEUTRAL,0.0,0.0,1
+62,2023-03, A little bit of change in the Earth’s orbit.,NEUTRAL,0.0,0.0,1
+63,2023-04, A little bit of change in the Earth’s orbit.,NEUTRAL,0.0,0.0,1
+64,2023-05, A little bit of change in the Earth’s orbit.,NEUTRAL,0.0,0.0,1
+65,2023-06, A little bit of change in the Earth’s orbit.,NEUTRAL,0.0,0.0,1
+66,2023-07, A little bit of change in the Earth’s orbit.,NEUTRAL,0.0,0.0,1
+67,2023-08, A little bit of change in the Earth’s orbit.,NEUTRAL,0.0,0.0,1
+68,2023-09, A little bit of change in the Earth’s orbit.,NEUTRAL,0.0,0.0,1
+69,2023-10, A little bit of change in the Earth’s orbit.,NEUTRAL,0.0,0.0,1
+70,2023-11, A little bit of change in the Earth’s orbit.,NEUTRAL,0.0,0.0,1
+71,2023-12, A little bit of change in the Earth’s orbit.,NEUTRAL,0.0,0.0,1
+72,2025-01, Europe still little settled.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+73,2025-02, Europe still little settled.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+74,2025-03, Europe still little settled.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+75,2025-04, Europe still little settled.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+76,2025-05, Europe still little settled.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+77,2025-06, Europe still little settled.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+78,2025-07, Europe still little settled.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+79,2025-08, Europe still little settled.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+80,2025-09, Europe still little settled.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+81,2025-10, Europe still little settled.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+82,2025-11, Europe still little settled.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+83,2025-12, Europe still little settled.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+84,2028-01, Creating a new energy source (probably a controlled thermonuclear reaction). Hunger is gradually being overcome. Launched a manned spacecraft to Venus.,NEUTRAL,0.0,0.10000000149011612,1
+85,2028-02, Creating a new energy source (probably a controlled thermonuclear reaction). Hunger is gradually being overcome. Launched a manned spacecraft to Venus.,NEUTRAL,0.0,0.10000000149011612,1
+86,2028-03, Creating a new energy source (probably a controlled thermonuclear reaction). Hunger is gradually being overcome. Launched a manned spacecraft to Venus.,NEUTRAL,0.0,0.10000000149011612,1
+87,2028-04, Creating a new energy source (probably a controlled thermonuclear reaction). Hunger is gradually being overcome. Launched a manned spacecraft to Venus.,NEUTRAL,0.0,0.10000000149011612,1
+88,2028-05, Creating a new energy source (probably a controlled thermonuclear reaction). Hunger is gradually being overcome. Launched a manned spacecraft to Venus.,NEUTRAL,0.0,0.10000000149011612,1
+89,2028-06, Creating a new energy source (probably a controlled thermonuclear reaction). Hunger is gradually being overcome. Launched a manned spacecraft to Venus.,NEUTRAL,0.0,0.10000000149011612,1
+90,2028-07, Creating a new energy source (probably a controlled thermonuclear reaction). Hunger is gradually being overcome. Launched a manned spacecraft to Venus.,NEUTRAL,0.0,0.10000000149011612,1
+91,2028-08, Creating a new energy source (probably a controlled thermonuclear reaction). Hunger is gradually being overcome. Launched a manned spacecraft to Venus.,NEUTRAL,0.0,0.10000000149011612,1
+92,2028-09, Creating a new energy source (probably a controlled thermonuclear reaction). Hunger is gradually being overcome. Launched a manned spacecraft to Venus.,NEUTRAL,0.0,0.10000000149011612,1
+93,2028-10, Creating a new energy source (probably a controlled thermonuclear reaction). Hunger is gradually being overcome. Launched a manned spacecraft to Venus.,NEUTRAL,0.0,0.10000000149011612,1
+94,2028-11, Creating a new energy source (probably a controlled thermonuclear reaction). Hunger is gradually being overcome. Launched a manned spacecraft to Venus.,NEUTRAL,0.0,0.10000000149011612,1
+95,2028-12, Creating a new energy source (probably a controlled thermonuclear reaction). Hunger is gradually being overcome. Launched a manned spacecraft to Venus.,NEUTRAL,0.0,0.10000000149011612,1
+96,2033-01, The polar ice are melting. Greater levels of the oceans.,NEUTRAL,0.10000000149011612,0.20000000298023224,1
+97,2033-02, The polar ice are melting. Greater levels of the oceans.,NEUTRAL,0.10000000149011612,0.20000000298023224,1
+98,2033-03, The polar ice are melting. Greater levels of the oceans.,NEUTRAL,0.10000000149011612,0.20000000298023224,1
+99,2033-04, The polar ice are melting. Greater levels of the oceans.,NEUTRAL,0.10000000149011612,0.20000000298023224,1
+100,2033-05, The polar ice are melting. Greater levels of the oceans.,NEUTRAL,0.10000000149011612,0.20000000298023224,1
+101,2033-06, The polar ice are melting. Greater levels of the oceans.,NEUTRAL,0.10000000149011612,0.20000000298023224,1
+102,2033-07, The polar ice are melting. Greater levels of the oceans.,NEUTRAL,0.10000000149011612,0.20000000298023224,1
+103,2033-08, The polar ice are melting. Greater levels of the oceans.,NEUTRAL,0.10000000149011612,0.20000000298023224,1
+104,2033-09, The polar ice are melting. Greater levels of the oceans.,NEUTRAL,0.10000000149011612,0.20000000298023224,1
+105,2033-10, The polar ice are melting. Greater levels of the oceans.,NEUTRAL,0.10000000149011612,0.20000000298023224,1
+106,2033-11, The polar ice are melting. Greater levels of the oceans.,NEUTRAL,0.10000000149011612,0.20000000298023224,1
+107,2033-12, The polar ice are melting. Greater levels of the oceans.,NEUTRAL,0.10000000149011612,0.20000000298023224,1
+108,2043-01," The world economy is thriving. In Europe, Muslims rule.",NEUTRAL,0.30000001192092896,0.6000000238418579,1
+109,2043-02," The world economy is thriving. In Europe, Muslims rule.",NEUTRAL,0.30000001192092896,0.6000000238418579,1
+110,2043-03," The world economy is thriving. In Europe, Muslims rule.",NEUTRAL,0.30000001192092896,0.6000000238418579,1
+111,2043-04," The world economy is thriving. In Europe, Muslims rule.",NEUTRAL,0.30000001192092896,0.6000000238418579,1
+112,2043-05," The world economy is thriving. In Europe, Muslims rule.",NEUTRAL,0.30000001192092896,0.6000000238418579,1
+113,2043-06," The world economy is thriving. In Europe, Muslims rule.",NEUTRAL,0.30000001192092896,0.6000000238418579,1
+114,2043-07," The world economy is thriving. In Europe, Muslims rule.",NEUTRAL,0.30000001192092896,0.6000000238418579,1
+115,2043-08," The world economy is thriving. In Europe, Muslims rule.",NEUTRAL,0.30000001192092896,0.6000000238418579,1
+116,2043-09," The world economy is thriving. In Europe, Muslims rule.",NEUTRAL,0.30000001192092896,0.6000000238418579,1
+117,2043-10," The world economy is thriving. In Europe, Muslims rule.",NEUTRAL,0.30000001192092896,0.6000000238418579,1
+118,2043-11," The world economy is thriving. In Europe, Muslims rule.",NEUTRAL,0.30000001192092896,0.6000000238418579,1
+119,2043-12," The world economy is thriving. In Europe, Muslims rule.",NEUTRAL,0.30000001192092896,0.6000000238418579,1
+120,2046-01, any bodies (organs) can be manufactured (cloning?). Replacing the bodies is becoming one of the best methods of treatment.,NEUTRAL,0.4000000059604645,0.8999999761581421,1
+121,2046-02, any bodies (organs) can be manufactured (cloning?). Replacing the bodies is becoming one of the best methods of treatment.,NEUTRAL,0.4000000059604645,0.8999999761581421,1
+122,2046-03, any bodies (organs) can be manufactured (cloning?). Replacing the bodies is becoming one of the best methods of treatment.,NEUTRAL,0.4000000059604645,0.8999999761581421,1
+123,2046-04, any bodies (organs) can be manufactured (cloning?). Replacing the bodies is becoming one of the best methods of treatment.,NEUTRAL,0.4000000059604645,0.8999999761581421,1
+124,2046-05, any bodies (organs) can be manufactured (cloning?). Replacing the bodies is becoming one of the best methods of treatment.,NEUTRAL,0.4000000059604645,0.8999999761581421,1
+125,2046-06, any bodies (organs) can be manufactured (cloning?). Replacing the bodies is becoming one of the best methods of treatment.,NEUTRAL,0.4000000059604645,0.8999999761581421,1
+126,2046-07, any bodies (organs) can be manufactured (cloning?). Replacing the bodies is becoming one of the best methods of treatment.,NEUTRAL,0.4000000059604645,0.8999999761581421,1
+127,2046-08, any bodies (organs) can be manufactured (cloning?). Replacing the bodies is becoming one of the best methods of treatment.,NEUTRAL,0.4000000059604645,0.8999999761581421,1
+128,2046-09, any bodies (organs) can be manufactured (cloning?). Replacing the bodies is becoming one of the best methods of treatment.,NEUTRAL,0.4000000059604645,0.8999999761581421,1
+129,2046-10, any bodies (organs) can be manufactured (cloning?). Replacing the bodies is becoming one of the best methods of treatment.,NEUTRAL,0.4000000059604645,0.8999999761581421,1
+130,2046-11, any bodies (organs) can be manufactured (cloning?). Replacing the bodies is becoming one of the best methods of treatment.,NEUTRAL,0.4000000059604645,0.8999999761581421,1
+131,2046-12, any bodies (organs) can be manufactured (cloning?). Replacing the bodies is becoming one of the best methods of treatment.,NEUTRAL,0.4000000059604645,0.8999999761581421,1
+132,2066-01," During the attack on the Muslim Rome, the United States used a new kind of weapon the climate. The sharp cooling (instant freezing).",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+133,2066-02," During the attack on the Muslim Rome, the United States used a new kind of weapon the climate. The sharp cooling (instant freezing).",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+134,2066-03," During the attack on the Muslim Rome, the United States used a new kind of weapon the climate. The sharp cooling (instant freezing).",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+135,2066-04," During the attack on the Muslim Rome, the United States used a new kind of weapon the climate. The sharp cooling (instant freezing).",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+136,2066-05," During the attack on the Muslim Rome, the United States used a new kind of weapon the climate. The sharp cooling (instant freezing).",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+137,2066-06," During the attack on the Muslim Rome, the United States used a new kind of weapon the climate. The sharp cooling (instant freezing).",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+138,2066-07," During the attack on the Muslim Rome, the United States used a new kind of weapon the climate. The sharp cooling (instant freezing).",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+139,2066-08," During the attack on the Muslim Rome, the United States used a new kind of weapon the climate. The sharp cooling (instant freezing).",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+140,2066-09," During the attack on the Muslim Rome, the United States used a new kind of weapon the climate. The sharp cooling (instant freezing).",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+141,2066-10," During the attack on the Muslim Rome, the United States used a new kind of weapon the climate. The sharp cooling (instant freezing).",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+142,2066-11," During the attack on the Muslim Rome, the United States used a new kind of weapon the climate. The sharp cooling (instant freezing).",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+143,2066-12," During the attack on the Muslim Rome, the United States used a new kind of weapon the climate. The sharp cooling (instant freezing).",NEUTRAL,0.10000000149011612,0.30000001192092896,1
+144,2076-01, Classless Society (communism).,NEGATIVE,0.0,0.0,1
+145,2076-02, Classless Society (communism).,NEGATIVE,0.0,0.0,1
+146,2076-03, Classless Society (communism).,NEGATIVE,0.0,0.0,1
+147,2076-04, Classless Society (communism).,NEGATIVE,0.0,0.0,1
+148,2076-05, Classless Society (communism).,NEGATIVE,0.0,0.0,1
+149,2076-06, Classless Society (communism).,NEGATIVE,0.0,0.0,1
+150,2076-07, Classless Society (communism).,NEGATIVE,0.0,0.0,1
+151,2076-08, Classless Society (communism).,NEGATIVE,0.0,0.0,1
+152,2076-09, Classless Society (communism).,NEGATIVE,0.0,0.0,1
+153,2076-10, Classless Society (communism).,NEGATIVE,0.0,0.0,1
+154,2076-11, Classless Society (communism).,NEGATIVE,0.0,0.0,1
+155,2076-12, Classless Society (communism).,NEGATIVE,0.0,0.0,1
+156,2084-01, The restoration of nature.,NEUTRAL,0.699999988079071,0.699999988079071,1
+157,2084-02, The restoration of nature.,NEUTRAL,0.699999988079071,0.699999988079071,1
+158,2084-03, The restoration of nature.,NEUTRAL,0.699999988079071,0.699999988079071,1
+159,2084-04, The restoration of nature.,NEUTRAL,0.699999988079071,0.699999988079071,1
+160,2084-05, The restoration of nature.,NEUTRAL,0.699999988079071,0.699999988079071,1
+161,2084-06, The restoration of nature.,NEUTRAL,0.699999988079071,0.699999988079071,1
+162,2084-07, The restoration of nature.,NEUTRAL,0.699999988079071,0.699999988079071,1
+163,2084-08, The restoration of nature.,NEUTRAL,0.699999988079071,0.699999988079071,1
+164,2084-09, The restoration of nature.,NEUTRAL,0.699999988079071,0.699999988079071,1
+165,2084-10, The restoration of nature.,NEUTRAL,0.699999988079071,0.699999988079071,1
+166,2084-11, The restoration of nature.,NEUTRAL,0.699999988079071,0.699999988079071,1
+167,2084-12, The restoration of nature.,NEUTRAL,0.699999988079071,0.699999988079071,1
+168,2088-01, A new disease aging for a few seconds!,NEGATIVE,-0.10000000149011612,0.10000000149011612,1
+169,2088-02, A new disease aging for a few seconds!,NEGATIVE,-0.10000000149011612,0.10000000149011612,1
+170,2088-03, A new disease aging for a few seconds!,NEGATIVE,-0.10000000149011612,0.10000000149011612,1
+171,2088-04, A new disease aging for a few seconds!,NEGATIVE,-0.10000000149011612,0.10000000149011612,1
+172,2088-05, A new disease aging for a few seconds!,NEGATIVE,-0.10000000149011612,0.10000000149011612,1
+173,2088-06, A new disease aging for a few seconds!,NEGATIVE,-0.10000000149011612,0.10000000149011612,1
+174,2088-07, A new disease aging for a few seconds!,NEGATIVE,-0.10000000149011612,0.10000000149011612,1
+175,2088-08, A new disease aging for a few seconds!,NEGATIVE,-0.10000000149011612,0.10000000149011612,1
+176,2088-09, A new disease aging for a few seconds!,NEGATIVE,-0.10000000149011612,0.10000000149011612,1
+177,2088-10, A new disease aging for a few seconds!,NEGATIVE,-0.10000000149011612,0.10000000149011612,1
+178,2088-11, A new disease aging for a few seconds!,NEGATIVE,-0.10000000149011612,0.10000000149011612,1
+179,2088-12, A new disease aging for a few seconds!,NEGATIVE,-0.10000000149011612,0.10000000149011612,1
+180,2097-01, The rapid aging defeated.,NEUTRAL,-0.30000001192092896,0.30000001192092896,1
+181,2097-02, The rapid aging defeated.,NEUTRAL,-0.30000001192092896,0.30000001192092896,1
+182,2097-03, The rapid aging defeated.,NEUTRAL,-0.30000001192092896,0.30000001192092896,1
+183,2097-04, The rapid aging defeated.,NEUTRAL,-0.30000001192092896,0.30000001192092896,1
+184,2097-05, The rapid aging defeated.,NEUTRAL,-0.30000001192092896,0.30000001192092896,1
+185,2097-06, The rapid aging defeated.,NEUTRAL,-0.30000001192092896,0.30000001192092896,1
+186,2097-07, The rapid aging defeated.,NEUTRAL,-0.30000001192092896,0.30000001192092896,1
+187,2097-08, The rapid aging defeated.,NEUTRAL,-0.30000001192092896,0.30000001192092896,1
+188,2097-09, The rapid aging defeated.,NEUTRAL,-0.30000001192092896,0.30000001192092896,1
+189,2097-10, The rapid aging defeated.,NEUTRAL,-0.30000001192092896,0.30000001192092896,1
+190,2097-11, The rapid aging defeated.,NEUTRAL,-0.30000001192092896,0.30000001192092896,1
+191,2097-12, The rapid aging defeated.,NEUTRAL,-0.30000001192092896,0.30000001192092896,1
+192,2100-01, Artificial sun illuminates the dark side of the Earth.,POSITIVE,0.0,0.0,1
+193,2100-02, Artificial sun illuminates the dark side of the Earth.,POSITIVE,0.0,0.0,1
+194,2100-03, Artificial sun illuminates the dark side of the Earth.,POSITIVE,0.0,0.0,1
+195,2100-04, Artificial sun illuminates the dark side of the Earth.,POSITIVE,0.0,0.0,1
+196,2100-05, Artificial sun illuminates the dark side of the Earth.,POSITIVE,0.0,0.0,1
+197,2100-06, Artificial sun illuminates the dark side of the Earth.,POSITIVE,0.0,0.0,1
+198,2100-07, Artificial sun illuminates the dark side of the Earth.,POSITIVE,0.0,0.0,1
+199,2100-08, Artificial sun illuminates the dark side of the Earth.,POSITIVE,0.0,0.0,1
+200,2100-09, Artificial sun illuminates the dark side of the Earth.,POSITIVE,0.0,0.0,1
+201,2100-10, Artificial sun illuminates the dark side of the Earth.,POSITIVE,0.0,0.0,1
+202,2100-11, Artificial sun illuminates the dark side of the Earth.,POSITIVE,0.0,0.0,1
+203,2100-12, Artificial sun illuminates the dark side of the Earth.,POSITIVE,0.0,0.0,1
+204,2111-01, People become living robots.,NEUTRAL,-0.5,0.5,1
+205,2111-02, People become living robots.,NEUTRAL,-0.5,0.5,1
+206,2111-03, People become living robots.,NEUTRAL,-0.5,0.5,1
+207,2111-04, People become living robots.,NEUTRAL,-0.5,0.5,1
+208,2111-05, People become living robots.,NEUTRAL,-0.5,0.5,1
+209,2111-06, People become living robots.,NEUTRAL,-0.5,0.5,1
+210,2111-07, People become living robots.,NEUTRAL,-0.5,0.5,1
+211,2111-08, People become living robots.,NEUTRAL,-0.5,0.5,1
+212,2111-09, People become living robots.,NEUTRAL,-0.5,0.5,1
+213,2111-10, People become living robots.,NEUTRAL,-0.5,0.5,1
+214,2111-11, People become living robots.,NEUTRAL,-0.5,0.5,1
+215,2111-12, People become living robots.,NEUTRAL,-0.5,0.5,1
+216,2123-01, The war between small nations. Big nations do not intervene.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+217,2123-02, The war between small nations. Big nations do not intervene.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+218,2123-03, The war between small nations. Big nations do not intervene.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+219,2123-04, The war between small nations. Big nations do not intervene.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+220,2123-05, The war between small nations. Big nations do not intervene.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+221,2123-06, The war between small nations. Big nations do not intervene.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+222,2123-07, The war between small nations. Big nations do not intervene.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+223,2123-08, The war between small nations. Big nations do not intervene.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+224,2123-09, The war between small nations. Big nations do not intervene.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+225,2123-10, The war between small nations. Big nations do not intervene.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+226,2123-11, The war between small nations. Big nations do not intervene.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+227,2123-12, The war between small nations. Big nations do not intervene.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+228,2125-01, Hungary will receive signals from space.,NEUTRAL,0.0,0.0,1
+229,2125-02, Hungary will receive signals from space.,NEUTRAL,0.0,0.0,1
+230,2125-03, Hungary will receive signals from space.,NEUTRAL,0.0,0.0,1
+231,2125-04, Hungary will receive signals from space.,NEUTRAL,0.0,0.0,1
+232,2125-05, Hungary will receive signals from space.,NEUTRAL,0.0,0.0,1
+233,2125-06, Hungary will receive signals from space.,NEUTRAL,0.0,0.0,1
+234,2125-07, Hungary will receive signals from space.,NEUTRAL,0.0,0.0,1
+235,2125-08, Hungary will receive signals from space.,NEUTRAL,0.0,0.0,1
+236,2125-09, Hungary will receive signals from space.,NEUTRAL,0.0,0.0,1
+237,2125-10, Hungary will receive signals from space.,NEUTRAL,0.0,0.0,1
+238,2125-11, Hungary will receive signals from space.,NEUTRAL,0.0,0.0,1
+239,2125-12, Hungary will receive signals from space.,NEUTRAL,0.0,0.0,1
+240,2130-01, Colony under water (with the help of sympathetic councils).,NEUTRAL,0.0,0.0,1
+241,2130-02, Colony under water (with the help of sympathetic councils).,NEUTRAL,0.0,0.0,1
+242,2130-03, Colony under water (with the help of sympathetic councils).,NEUTRAL,0.0,0.0,1
+243,2130-04, Colony under water (with the help of sympathetic councils).,NEUTRAL,0.0,0.0,1
+244,2130-05, Colony under water (with the help of sympathetic councils).,NEUTRAL,0.0,0.0,1
+245,2130-06, Colony under water (with the help of sympathetic councils).,NEUTRAL,0.0,0.0,1
+246,2130-07, Colony under water (with the help of sympathetic councils).,NEUTRAL,0.0,0.0,1
+247,2130-08, Colony under water (with the help of sympathetic councils).,NEUTRAL,0.0,0.0,1
+248,2130-09, Colony under water (with the help of sympathetic councils).,NEUTRAL,0.0,0.0,1
+249,2130-10, Colony under water (with the help of sympathetic councils).,NEUTRAL,0.0,0.0,1
+250,2130-11, Colony under water (with the help of sympathetic councils).,NEUTRAL,0.0,0.0,1
+251,2130-12, Colony under water (with the help of sympathetic councils).,NEUTRAL,0.0,0.0,1
+252,2164-01, Animals turn half-human.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+253,2164-02, Animals turn half-human.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+254,2164-03, Animals turn half-human.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+255,2164-04, Animals turn half-human.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+256,2164-05, Animals turn half-human.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+257,2164-06, Animals turn half-human.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+258,2164-07, Animals turn half-human.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+259,2164-08, Animals turn half-human.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+260,2164-09, Animals turn half-human.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+261,2164-10, Animals turn half-human.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+262,2164-11, Animals turn half-human.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+263,2164-12, Animals turn half-human.,NEUTRAL,-0.20000000298023224,0.20000000298023224,1
+264,2167-01, A new religion.,NEUTRAL,0.0,0.0,1
+265,2167-02, A new religion.,NEUTRAL,0.0,0.0,1
+266,2167-03, A new religion.,NEUTRAL,0.0,0.0,1
+267,2167-04, A new religion.,NEUTRAL,0.0,0.0,1
+268,2167-05, A new religion.,NEUTRAL,0.0,0.0,1
+269,2167-06, A new religion.,NEUTRAL,0.0,0.0,1
+270,2167-07, A new religion.,NEUTRAL,0.0,0.0,1
+271,2167-08, A new religion.,NEUTRAL,0.0,0.0,1
+272,2167-09, A new religion.,NEUTRAL,0.0,0.0,1
+273,2167-10, A new religion.,NEUTRAL,0.0,0.0,1
+274,2167-11, A new religion.,NEUTRAL,0.0,0.0,1
+275,2167-12, A new religion.,NEUTRAL,0.0,0.0,1
+276,2170-01, Major drought.,NEUTRAL,-0.6000000238418579,0.6000000238418579,1
+277,2170-02, Major drought.,NEUTRAL,-0.6000000238418579,0.6000000238418579,1
+278,2170-03, Major drought.,NEUTRAL,-0.6000000238418579,0.6000000238418579,1
+279,2170-04, Major drought.,NEUTRAL,-0.6000000238418579,0.6000000238418579,1
+280,2170-05, Major drought.,NEUTRAL,-0.6000000238418579,0.6000000238418579,1
+281,2170-06, Major drought.,NEUTRAL,-0.6000000238418579,0.6000000238418579,1
+282,2170-07, Major drought.,NEUTRAL,-0.6000000238418579,0.6000000238418579,1
+283,2170-08, Major drought.,NEUTRAL,-0.6000000238418579,0.6000000238418579,1
+284,2170-09, Major drought.,NEUTRAL,-0.6000000238418579,0.6000000238418579,1
+285,2170-10, Major drought.,NEUTRAL,-0.6000000238418579,0.6000000238418579,1
+286,2170-11, Major drought.,NEUTRAL,-0.6000000238418579,0.6000000238418579,1
+287,2170-12, Major drought.,NEUTRAL,-0.6000000238418579,0.6000000238418579,1
+288,2183-01," A colony on Mars becomes a nuclear power, and demands independence from the Earth (like when the United States from England).",NEUTRAL,-0.10000000149011612,0.10000000149011612,1
+289,2183-02," A colony on Mars becomes a nuclear power, and demands independence from the Earth (like when the United States from England).",NEUTRAL,-0.10000000149011612,0.10000000149011612,1
+290,2183-03," A colony on Mars becomes a nuclear power, and demands independence from the Earth (like when the United States from England).",NEUTRAL,-0.10000000149011612,0.10000000149011612,1
+291,2183-04," A colony on Mars becomes a nuclear power, and demands independence from the Earth (like when the United States from England).",NEUTRAL,-0.10000000149011612,0.10000000149011612,1
+292,2183-05," A colony on Mars becomes a nuclear power, and demands independence from the Earth (like when the United States from England).",NEUTRAL,-0.10000000149011612,0.10000000149011612,1
+293,2183-06," A colony on Mars becomes a nuclear power, and demands independence from the Earth (like when the United States from England).",NEUTRAL,-0.10000000149011612,0.10000000149011612,1
+294,2183-07," A colony on Mars becomes a nuclear power, and demands independence from the Earth (like when the United States from England).",NEUTRAL,-0.10000000149011612,0.10000000149011612,1
+295,2183-08," A colony on Mars becomes a nuclear power, and demands independence from the Earth (like when the United States from England).",NEUTRAL,-0.10000000149011612,0.10000000149011612,1
+296,2183-09," A colony on Mars becomes a nuclear power, and demands independence from the Earth (like when the United States from England).",NEUTRAL,-0.10000000149011612,0.10000000149011612,1
+297,2183-10," A colony on Mars becomes a nuclear power, and demands independence from the Earth (like when the United States from England).",NEUTRAL,-0.10000000149011612,0.10000000149011612,1
+298,2183-11," A colony on Mars becomes a nuclear power, and demands independence from the Earth (like when the United States from England).",NEUTRAL,-0.10000000149011612,0.10000000149011612,1
+299,2183-12," A colony on Mars becomes a nuclear power, and demands independence from the Earth (like when the United States from England).",NEUTRAL,-0.10000000149011612,0.10000000149011612,1
+300,2187-01, Will stop  large eruption of volcanoes.,NEUTRAL,0.10000000149011612,0.10000000149011612,1
+301,2187-02, Will stop  large eruption of volcanoes.,NEUTRAL,0.10000000149011612,0.10000000149011612,1
+302,2187-03, Will stop  large eruption of volcanoes.,NEUTRAL,0.10000000149011612,0.10000000149011612,1
+303,2187-04, Will stop  large eruption of volcanoes.,NEUTRAL,0.10000000149011612,0.10000000149011612,1
+304,2187-05, Will stop  large eruption of volcanoes.,NEUTRAL,0.10000000149011612,0.10000000149011612,1
+305,2187-06, Will stop  large eruption of volcanoes.,NEUTRAL,0.10000000149011612,0.10000000149011612,1
+306,2187-07, Will stop  large eruption of volcanoes.,NEUTRAL,0.10000000149011612,0.10000000149011612,1
+307,2187-08, Will stop  large eruption of volcanoes.,NEUTRAL,0.10000000149011612,0.10000000149011612,1
+308,2187-09, Will stop  large eruption of volcanoes.,NEUTRAL,0.10000000149011612,0.10000000149011612,1
+309,2187-10, Will stop  large eruption of volcanoes.,NEUTRAL,0.10000000149011612,0.10000000149011612,1
+310,2187-11, Will stop  large eruption of volcanoes.,NEUTRAL,0.10000000149011612,0.10000000149011612,1
+311,2187-12, Will stop  large eruption of volcanoes.,NEUTRAL,0.10000000149011612,0.10000000149011612,1
+312,2195-01," Sea Colony fully developed, abundant energy and food.",POSITIVE,0.699999988079071,0.699999988079071,1
+313,2195-02," Sea Colony fully developed, abundant energy and food.",POSITIVE,0.699999988079071,0.699999988079071,1
+314,2195-03," Sea Colony fully developed, abundant energy and food.",POSITIVE,0.699999988079071,0.699999988079071,1
+315,2195-04," Sea Colony fully developed, abundant energy and food.",POSITIVE,0.699999988079071,0.699999988079071,1
+316,2195-05," Sea Colony fully developed, abundant energy and food.",POSITIVE,0.699999988079071,0.699999988079071,1
+317,2195-06," Sea Colony fully developed, abundant energy and food.",POSITIVE,0.699999988079071,0.699999988079071,1
+318,2195-07," Sea Colony fully developed, abundant energy and food.",POSITIVE,0.699999988079071,0.699999988079071,1
+319,2195-08," Sea Colony fully developed, abundant energy and food.",POSITIVE,0.699999988079071,0.699999988079071,1
+320,2195-09," Sea Colony fully developed, abundant energy and food.",POSITIVE,0.699999988079071,0.699999988079071,1
+321,2195-10," Sea Colony fully developed, abundant energy and food.",POSITIVE,0.699999988079071,0.699999988079071,1
+322,2195-11," Sea Colony fully developed, abundant energy and food.",POSITIVE,0.699999988079071,0.699999988079071,1
+323,2195-12," Sea Colony fully developed, abundant energy and food.",POSITIVE,0.699999988079071,0.699999988079071,1
+324,2196-01, Complete mixing of Asians and Europeans.,NEUTRAL,0.0,0.0,1
+325,2196-02, Complete mixing of Asians and Europeans.,NEUTRAL,0.0,0.0,1
+326,2196-03, Complete mixing of Asians and Europeans.,NEUTRAL,0.0,0.0,1
+327,2196-04, Complete mixing of Asians and Europeans.,NEUTRAL,0.0,0.0,1
+328,2196-05, Complete mixing of Asians and Europeans.,NEUTRAL,0.0,0.0,1
+329,2196-06, Complete mixing of Asians and Europeans.,NEUTRAL,0.0,0.0,1
+330,2196-07, Complete mixing of Asians and Europeans.,NEUTRAL,0.0,0.0,1
+331,2196-08, Complete mixing of Asians and Europeans.,NEUTRAL,0.0,0.0,1
+332,2196-09, Complete mixing of Asians and Europeans.,NEUTRAL,0.0,0.0,1
+333,2196-10, Complete mixing of Asians and Europeans.,NEUTRAL,0.0,0.0,1
+334,2196-11, Complete mixing of Asians and Europeans.,NEUTRAL,0.0,0.0,1
+335,2196-12, Complete mixing of Asians and Europeans.,NEUTRAL,0.0,0.0,1
+336,2201-01, At the Sun slowing thermonuclear processes. Temperature drops.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+337,2201-02, At the Sun slowing thermonuclear processes. Temperature drops.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+338,2201-03, At the Sun slowing thermonuclear processes. Temperature drops.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+339,2201-04, At the Sun slowing thermonuclear processes. Temperature drops.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+340,2201-05, At the Sun slowing thermonuclear processes. Temperature drops.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+341,2201-06, At the Sun slowing thermonuclear processes. Temperature drops.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+342,2201-07, At the Sun slowing thermonuclear processes. Temperature drops.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+343,2201-08, At the Sun slowing thermonuclear processes. Temperature drops.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+344,2201-09, At the Sun slowing thermonuclear processes. Temperature drops.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+345,2201-10, At the Sun slowing thermonuclear processes. Temperature drops.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+346,2201-11, At the Sun slowing thermonuclear processes. Temperature drops.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+347,2201-12, At the Sun slowing thermonuclear processes. Temperature drops.,NEUTRAL,-0.4000000059604645,0.800000011920929,1
+348,2221-01," In the search for extraterrestrial life, humanity comes into contact with what something terrible.",NEUTRAL,-0.4000000059604645,0.4000000059604645,1
+349,2221-02," In the search for extraterrestrial life, humanity comes into contact with what something terrible.",NEUTRAL,-0.4000000059604645,0.4000000059604645,1
+350,2221-03," In the search for extraterrestrial life, humanity comes into contact with what something terrible.",NEUTRAL,-0.4000000059604645,0.4000000059604645,1
+351,2221-04," In the search for extraterrestrial life, humanity comes into contact with what something terrible.",NEUTRAL,-0.4000000059604645,0.4000000059604645,1
+352,2221-05," In the search for extraterrestrial life, humanity comes into contact with what something terrible.",NEUTRAL,-0.4000000059604645,0.4000000059604645,1
+353,2221-06," In the search for extraterrestrial life, humanity comes into contact with what something terrible.",NEUTRAL,-0.4000000059604645,0.4000000059604645,1
+354,2221-07," In the search for extraterrestrial life, humanity comes into contact with what something terrible.",NEUTRAL,-0.4000000059604645,0.4000000059604645,1
+355,2221-08," In the search for extraterrestrial life, humanity comes into contact with what something terrible.",NEUTRAL,-0.4000000059604645,0.4000000059604645,1
+356,2221-09," In the search for extraterrestrial life, humanity comes into contact with what something terrible.",NEUTRAL,-0.4000000059604645,0.4000000059604645,1
+357,2221-10," In the search for extraterrestrial life, humanity comes into contact with what something terrible.",NEUTRAL,-0.4000000059604645,0.4000000059604645,1
+358,2221-11," In the search for extraterrestrial life, humanity comes into contact with what something terrible.",NEUTRAL,-0.4000000059604645,0.4000000059604645,1
+359,2221-12," In the search for extraterrestrial life, humanity comes into contact with what something terrible.",NEUTRAL,-0.4000000059604645,0.4000000059604645,1
+360,2256-01, Spacecraft forgotten to Earth terrible new disease.,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+361,2256-02, Spacecraft forgotten to Earth terrible new disease.,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+362,2256-03, Spacecraft forgotten to Earth terrible new disease.,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+363,2256-04, Spacecraft forgotten to Earth terrible new disease.,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+364,2256-05, Spacecraft forgotten to Earth terrible new disease.,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+365,2256-06, Spacecraft forgotten to Earth terrible new disease.,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+366,2256-07, Spacecraft forgotten to Earth terrible new disease.,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+367,2256-08, Spacecraft forgotten to Earth terrible new disease.,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+368,2256-09, Spacecraft forgotten to Earth terrible new disease.,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+369,2256-10, Spacecraft forgotten to Earth terrible new disease.,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+370,2256-11, Spacecraft forgotten to Earth terrible new disease.,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
+371,2256-12, Spacecraft forgotten to Earth terrible new disease.,NEGATIVE,-0.6000000238418579,0.6000000238418579,1
