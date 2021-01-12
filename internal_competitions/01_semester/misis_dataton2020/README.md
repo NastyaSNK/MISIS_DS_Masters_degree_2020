@@ -29,7 +29,7 @@
 * [Уровень убийств в странах](http://www.cgeh.nl/data#homicide)
 
 
-# [Итоговый набор данных](https://github.com/NeznaikanaLune/misis_dataton2020/blob/main/data_storage/astro_crisis_predictions_set.csv)
+# [Итоговый набор данных](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/blob/master/internal_competitions/01_semester/misis_dataton2020/data_storage/astro_crisis_predictions_set.csv)
 Размер итогового набора данных:
 - строк 1270
 - столбцов 54
