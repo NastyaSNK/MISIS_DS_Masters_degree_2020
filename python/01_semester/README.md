@@ -10,3 +10,4 @@
     Анализ данных
 5.	[**Остаться в живых**](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/tree/master/python/01_semester/py_project_5_stay_alive)
     Обработка изображений и звука. Skimage
+6.  [**Финальный проект**](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/blob/master/python/01_semester/py_project_6_final_project.ipynb) Обработка звука. Преобразование Фурье. TSNE.
