@@ -43,7 +43,7 @@
    Uder|over fitiing\
    Дисбаланс выборки\
    Визуализация процесса обучения
-8. [Временные ряды в машинном обучении(https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/blob/master/machine_learning/01_semester/ml_8_time_series.ipynb)\
+8. [Временные ряды в машинном обучении](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/blob/master/machine_learning/01_semester/ml_8_time_series.ipynb)\
    Задача анализа временных рядов\
    Визуализация временных рядов\
    Способы визуализации в python\
