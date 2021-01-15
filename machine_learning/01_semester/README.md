@@ -1,9 +1,9 @@
-# практика
+# Практика
 
 1. [Теория машинного обучения](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/tree/master/machine_learning/01_semester/ml_1_ml_theory)\
    Типы алгоритмов\
    Задачи МО\
-   Методология разработки задач\
+   Методология разработки задач
 2. [Предобработка данных](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/tree/master/machine_learning/01_semester/ml_2_data_preprocessing)\
    Типы данных\
    Проблемы данных\
@@ -11,7 +11,7 @@
    Началья обработка\
    Визуализация\
    Feature engineering\
-   Поиск выбросов\
+   Поиск выбросов
 3. [Регрессия](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/tree/master/machine_learning/01_semester/ml_3_regression)\
    Линейная регрессия\
    Логистическая регрессия, **реализация**
@@ -19,11 +19,11 @@
    Решающие деревья\
    Построение решающих деревьев (CART, ID3)\
    Бэггинг\
-   Случайный лес\
+   Случайный лес
 5. [Бустинг, стэкинг](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/blob/master/machine_learning/01_semester/ml_5_boosting.ipynb)\
    Adaboost\
    Градиентный бустинг\
-   Стэкинг\
+   Стэкинг
 6. [Кластеризация](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/blob/master/machine_learning/01_semester/ml_6_clustering.ipynb)
    Задачи и подходы\
    Условие задачи кластеризации\
@@ -36,13 +36,13 @@
    Однородность\
    Полнота\
    V-мера\
-   Кластеризация текстов\
+   Кластеризация текстов
 7. [Валидация данных и оценка модели](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/blob/master/machine_learning/01_semester/ml_7_data_validation_model_assesment.ipynb)\
    Разбиение выборок\
    Метрики качества регрессии\
    Uder|over fitiing\
    Дисбаланс выборки\
-   Визуализация процесса обучения\
+   Визуализация процесса обучения
 8. [Временные ряды в машинном обучении(https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/blob/master/machine_learning/01_semester/ml_8_time_series.ipynb)\
    Задача анализа временных рядов\
    Визуализация временных рядов\
@@ -57,7 +57,7 @@
    Высокочастотные и полосные фильтры\
    Выделение признаков. TSFresh\
    Выделение признаков NNMF\
-   Особенности применения машинного обучения к временным рядам\
+   Особенности применения машинного обучения к временным рядам
 9. [Рекомендательные системы в МО](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/blob/master/machine_learning/01_semester/ml_9_recommender%20system.ipynb)\
    Ассоциативные правила\
    Коллаборативная фильтрация\
