@@ -37,7 +37,7 @@
    Полнота\
    V-мера\
    Кластеризация текстов\
-7. [Валидация данных и оценка модели]()\
+7. [Валидация данных и оценка модели](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/blob/master/machine_learning/01_semester/ml_7_data_validation_model_assesment.ipynb)\
    Разбиение выборок\
    Метрики качества регрессии\
    Uder|over fitiing\
