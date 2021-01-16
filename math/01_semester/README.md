@@ -16,8 +16,8 @@
    Производная\
    Экстремум\
    Градиент\
-   Выпуклость\
-   Базовые примеры оптимизации\
+   Выпуклость
+   Базовые примеры оптимизации
 2. [**Линейная алгебра. Часть 2**](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/blob/master/math/01_semester/math_2_linear_algebra_osl.ipynb)\
    Неоднородные СЛАУ\
    Классическая OSL линейная регрессия\
@@ -35,7 +35,7 @@
     Градиент\
     Матрица Гесссе\
     Оптимизация\
-    Выпуклость\
+    Выпуклость
 4. [**Оптимизация**](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/tree/master/math/01_semester/math_4_optimization)\
    Вступление к модулю\
    Метод Лагранжа\
