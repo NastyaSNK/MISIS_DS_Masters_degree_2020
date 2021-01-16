@@ -4,7 +4,7 @@
 Предсказание методом OSL. Матрицы
 2.	[Невероятно, но факт](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/blob/master/math/01_semester/math_project_2_unbelievable_but_true.ipynb)\
 Распределение Пуассона. Расчет кол-ва заказов и времени ожидания
-3. [Оптимизация]()\
+3. [Оптимизация](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/blob/master/math/01_semester/math_project_3_optimization.ipynb)\
    Градиентный спуск\
    Оптимизация функции двух переменных\
    Обратный гессиан
