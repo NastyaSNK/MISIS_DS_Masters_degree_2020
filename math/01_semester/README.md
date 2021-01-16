@@ -66,7 +66,7 @@
    Непрерывное равномерное распределение\
    Нормальное и логнормальное распределение\
    Экспоненциальное распределение
-6. [Временные ряды](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/tree/master/math/01_semester/math_7_time_series)\
+6. [Временные ряды](https://github.com/NeznaikanaLune/MISIS_DS_Masters_degree_2020/tree/master/math/01_semester/math_6_time_series)\
    Тренд/Сезонность/Цикличность\
    Стационарность/нестационарность. Тест Дикки-Фуллера\
    Скользящее среднее
